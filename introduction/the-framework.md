@@ -8,7 +8,7 @@ The JWT Framework is the main package and contains all features and components d
   * `web-token/jwt-experimental`: All experimental features
 
 {% hint style="warning" %}
-We highly recommend the use of the dedicated package instead installing the whole JWT Framork
+We highly recommend the use of the dedicated package instead installing the whole JWT Framework.
 {% endhint %}
 
 
